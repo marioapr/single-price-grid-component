@@ -4,7 +4,7 @@ Esta é uma solução para o [Desafio do componente de grade de preço único no
 
 ## Índice
 
-- [Visão geral](#visão geral)
+  - [Visão geral](#visão-geral)
     - [O desafio](#o-desafio)
     - [Meu processo](#meu-processo)
     - [Construído com](#construído-com)
